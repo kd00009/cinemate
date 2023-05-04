@@ -1,0 +1,17 @@
+8c88a2567cc13345d0fedc1f4fb1ccec
+
+
+search
+https://api.themoviedb.org/3/search/movie?api_key=<<api_key>>&language=en-US&page=1&include_adult=false
+.
+individual
+
+https://api.themoviedb.org/3/movie/{movie_id}?api_key=<<api_key>>&language=en-US
+
+top rated 
+https://api.themoviedb.org/3/movie/top_rated?api_key=<<api_key>>&language=en-US&page=1
+
+popular
+
+https://api.themoviedb.org/3/movie/popular?api_key=8c88a2567cc13345d0fedc1f4fb1ccec
+&language=en-US&page=1
